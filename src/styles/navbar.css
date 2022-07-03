@@ -1,0 +1,22 @@
+nav {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 36px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.1);
+    background-color: #F55A5A;
+}
+
+.nav--text {
+    color: #FFFFFF;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: -0.075em;
+}
+
+.nav--logo {
+    padding-right: 5px;
+    width:24px;
+}

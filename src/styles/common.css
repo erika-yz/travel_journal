@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+.gray{
+    color: #918E9B;
+}
+
+section{
+    padding: 20px;
+}
